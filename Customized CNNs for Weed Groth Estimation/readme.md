@@ -1,4 +1,4 @@
-### Customized CNNs for Weed Groth Estimation
+# Customized CNNs for Weed Groth Estimation
 * In the notebook, you will find
 ## Data Description ,Visualization and Splitting
 
