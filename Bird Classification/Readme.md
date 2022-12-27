@@ -3,7 +3,7 @@
 * The Notebook contains the following sections
 
 ## Data Description and Preparation
-Dataset: <a href="http://www.vision.caltech.edu/visipedia/CUB-200-2011.html">Caltech-UCSD Birds-200-2011</a> (Also posed on Brightspace)
+Dataset: <a href="http://www.vision.caltech.edu/visipedia/CUB-200-2011.html">Caltech-UCSD Birds-200-2011</a>
 
 * A subset of 150*32 images were used for the training
 * A subset of 30*32 images were used for the validation
