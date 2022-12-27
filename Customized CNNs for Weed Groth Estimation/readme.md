@@ -2,7 +2,7 @@
 * In the notebook, you will find
 ## Data Description ,Visualization and Splitting
 
-The data for this assignment are plant images at different resolutions captured with a variety of cameras. There are images showing plants with approximatelty 1,2,3,4 and 6 leafs. The images are part of a Leaf counting dataset by Teimouri et al. [1] which can be downloaded from the Aarhus University, Denmark:
+The data for this project are plant images at different resolutions captured with a variety of cameras. There are images showing plants with approximatelty 1,2,3,4 and 6 leafs. The images are part of a Leaf counting dataset by Teimouri et al. [1] which can be downloaded from the Aarhus University, Denmark:
 
 <a href="https://vision.eng.au.dk/leaf-counting-dataset/">Leaf counting dataset</a>
 
